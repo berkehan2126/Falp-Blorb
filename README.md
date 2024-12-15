@@ -1,6 +1,9 @@
 Flapy Blorb 🐦
 Flapy Blorb is a simple clone of the classic Flappy Bird game, created as a learning project to improve my skills in game development using Unity. The main goal of this project is to understand game mechanics, physics, and player interactions.
 
+![image](https://github.com/user-attachments/assets/121768fc-3d54-45be-9a7b-b946889d1dbd)
+
+
 📌 Project Overview
 Purpose: This game was developed as a part of my journey to learn Unity and C#.
 Status: The game is completed for basic functionality, but I may add more features in the future.
